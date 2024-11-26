@@ -1,9 +1,9 @@
 "source","target","value"
-"Kuhmoinen","Jyväskylä",1
+"Kuhmoinen","Helsinki",2
 "Kuhmoinen","Jämsä",1
-"Kuhmoinen","Kajaani",1
-"Kuhmoinen","Orivesi",1
-"Kuhmoinen","Tampere",2
-"Helsinki","Kuhmoinen",3
-"Kirkkonummi","Kuhmoinen",1
-"Lahti","Kuhmoinen",1
+"Kuhmoinen","Kangasala",1
+"Kuhmoinen","Pori",1
+"Kuhmoinen","Rovaniemi",1
+"Kangasala","Kuhmoinen",1
+"Lapinlahti","Kuhmoinen",1
+"Tampere","Kuhmoinen",1
